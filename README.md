@@ -1,6 +1,6 @@
 ### Welcome to Chico's Portfolio 👋
 
-I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work.
+I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work. 
 
 <div align="center">
   <a href="https://github.com/Chicoz0">
@@ -13,8 +13,16 @@ I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Sci
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="R-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
+#### Tech Courses:   
+  - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 2"
+  
+  - 🌱 <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> "Professional Certificate in Data Science (ongoing)"
+  
+  
+  
 #### Academic curriculum:
-  Icone qlq com LATTES
+  - [<img align="center" alt="R-R" height="30" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](http://lattes.cnpq.br/9487566527044104) "Lattes"
   
 #### Contact:
-  GMAIL LINKEDIN
+  <a href = "mailto:franciscolemosfisio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/francisco-lemos-415266205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
