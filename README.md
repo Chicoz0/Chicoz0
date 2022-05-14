@@ -1,4 +1,4 @@
-### Welcome to Chico's Portfolio 👋
+### Welcome to Chico's Portfolio 👋👋
 
 I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work. 
 
