@@ -1,6 +1,6 @@
 ### Welcome to Chico's Portfolio 👋👋
 
-I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work. 
+I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work and hobbies. 
 
 <div align="center">
   <a href="https://github.com/Chicoz0">
