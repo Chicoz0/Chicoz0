@@ -18,6 +18,7 @@ I'm a Brazilian tech enthusiast currently working as a Full-Stack Ruby on Rails 
   
   <img align="center" alt="R-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "SQL"
   
 #### Tech Courses:   
   - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Ruby"
