@@ -1,6 +1,6 @@
 ### Welcome to Chico's Portfolio 👋👋
 
-I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Science to apply on my work and hobbies. 
+I'm a Brazilian tech enthusiast currently working as a Full-Stack Ruby on Rails freelance developer. In addition to coding, I'm also a intensive care physiotherapist and ICU researcher, constantly exploring how statistics and Data Science can enhance both my professional work and personal projects. 
 
 <div align="center">
   <a href="https://github.com/Chicoz0">
@@ -9,16 +9,24 @@ I'm a Brazilian physiotherapist and ICU researcher diving in aspects of Data Sci
 </div>
 
 
-#### Languages:
-  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+#### Languages: ...change logos
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "Ruby on Rails"
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "Ruby"
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "HTML"
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "CSS"
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> "JS"
+  
   <img align="center" alt="R-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   
 #### Tech Courses:   
+  - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Ruby"
+  
   - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 2"
+
+  - 🌱 <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 3 (ongoing)"
   
-  - 🌱 <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> "Professional Certificate in Data Science (ongoing)"
-  
-  
+  - ❌ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> "Professional Certificate in Data Science (interrupted)"  
   
 #### Academic curriculum:
   - [<img align="center" alt="R-R" height="30" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](http://lattes.cnpq.br/9487566527044104) "Lattes"
