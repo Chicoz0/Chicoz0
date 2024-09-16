@@ -9,8 +9,9 @@ I'm a Brazilian tech enthusiast currently working as a Full-Stack Ruby on Rails 
 </div>
 
 
-#### Languages: ...change logos
-  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+#### Languages:
+<div style="display: inline_block"><br>
+  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -19,7 +20,8 @@ I'm a Brazilian tech enthusiast currently working as a Full-Stack Ruby on Rails 
   <img align="center" alt="R-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  
+</div>
+
 #### Tech Courses:   
   - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Ruby"
   
