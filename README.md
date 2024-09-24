@@ -1,10 +1,11 @@
 ### Welcome to Chico's Portfolio 👋👋
 
-I'm a Brazilian tech enthusiast currently working as a Full-Stack Ruby on Rails freelance developer. In addition to coding, I'm also a intensive care physiotherapist and ICU researcher, constantly exploring how design, statistics and Data Science can enhance both my professional work and personal projects. 
+I'm a Brazilian tech enthusiast currently working as a **Full-Stack Ruby on Rails freelance developer**. In addition to my coding career, I bring a unique perspective from my work as an **intensive care physiotherapist** and **ICU researcher**, along with a personal interest in **finance**. This diverse expertise enables me to explore innovative ways in which **clean design, healthcare and financial statistics**, and **Data Science** can enhance both healthcare and finance through technological solutions.
+
+I'm eager to fully transition into the tech industry, leveraging my **multidisciplinary background** to explore job opportunities where I can dedicate myself entirely. My goal is to integrate my healthcare and financial insights with tech innovations, driving impactful projects that bridge these dynamic fields and **make people's lives easier**.
 
 <div align="center">
   <a href="https://github.com/Chicoz0">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Chicoz0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicoz0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
