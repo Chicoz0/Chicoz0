@@ -1,6 +1,6 @@
 ### Welcome to Chico's Portfolio 👋👋
 
-I'm a Brazilian tech enthusiast currently working as a **Full-Stack Ruby on Rails freelance developer**. In addition to my coding career, I bring a unique perspective from my work as an **intensive care physiotherapist** and **ICU researcher**, along with a personal interest in **finance**. This diverse expertise enables me to explore innovative ways in which **clean design, healthcare and financial statistics**, and **Data Science** can enhance both healthcare and finance through technological solutions.
+I'm a Brazilian tech enthusiast currently working as a **Full-Stack Ruby on Rails freelance developer**. In addition to my developer career, I bring a unique perspective from my work as an **intensive care physiotherapist** and **ICU researcher**, along with a personal interest in **finance**. This diverse expertise enables me to explore innovative ways in which **clean design, healthcare and financial statistics**, and **Data Science** can enhance both healthcare and finance through technological solutions.
 
 I'm eager to fully transition into the tech industry, leveraging my **multidisciplinary background** to explore job opportunities where I can dedicate myself entirely. My goal is to integrate my healthcare and financial insights with tech innovations, driving impactful projects that bridge these dynamic fields and **make people's lives easier**.
 
