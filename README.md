@@ -29,9 +29,7 @@ I'm eager to fully transition into the tech industry, leveraging my **multidisci
   - ✔️ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 2"
 
   - 🌱 <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 3 (ongoing)"
-  
-  - ❌ <img align="center" alt="R-R" height="30" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> "Professional Certificate in Data Science (interrupted)"  
-  
+    
 #### Academic curriculum:
   - [<img align="center" alt="R-R" height="30" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](http://lattes.cnpq.br/9487566527044104) "Lattes"
   
