@@ -28,7 +28,10 @@ Right now I'm focusing on **Test-Driven Development (TDD)**, **Data Structures**
 
 </div>
 
-#### Tech Courses:   
+#### Tech Courses:
+
+  - 🌱 <img align="center" alt="ufsc_logo" height="30" src="https://www.apufsc.org.br/wp-content/uploads/2021/04/concorrencia-vestibular-ufsc-2020-2-326x245.jpg" /> "Bachelor's Degree in Information Systems - UFSC (ongoing)"
+
   - ✔️ <img align="center" alt="Codeacademy_logo" height="30" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /> "Python 2"
 
   - ✔️ <img align="center" alt="Asimov_academy_logo" height="30" src="https://yt3.googleusercontent.com/JlxNvkE931r5QP87KKR9YUsYuBwYgMcoyLvmsjymNnVoC0yXb14AqTGCmM0p4m5S9QXoS95EQQ=s900-c-k-c0x00ffffff-no-rj" /> "Trilha Python - Asimov Academy"
