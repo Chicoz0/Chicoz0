@@ -1,16 +1,10 @@
 ### Welcome to Chico's Portfolio 👋
 
-I'm a Brazilian tech enthusiast and **Full-Stack Developer**. My journey is unique: I bring years of experience as an **Intensive Care Physiotherapist**, **ICU Researcher**, and **Manager**, alongside a strong passion for **Finance**.
+I'm a Brazilian tech enthusiast and **Full-Stack Developer**. My journey is unique: I bring years of experience as an **Intensive Care Physiotherapist**, **ICU Researcher**, and **Manager** alongside a strong passion for **Finance**.
 
 This multidisciplinary background drives me to explore how **clean design, data science, and statistical analysis** can revolutionize both healthcare and financial sectors.
 
 Right now I'm focusing on **Test-Driven Development (TDD)**, **Data Structures**, and **Design Patterns**. My mission is to leverage this unique expertise to build impactful solutions that bridge these dynamic fields and **make people's lives easier**.
-
-<div align="center">
-  <a href="https://github.com/Chicoz0">
-  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicoz0&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 
 #### Languages:
 <div style="display: inline_block"><br>
