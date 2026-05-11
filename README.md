@@ -6,22 +6,6 @@ This multidisciplinary background drives me to explore how **clean design, data 
 
 Right now I'm focusing on **Test-Driven Development (TDD)**, **Data Structures**, and **Design Patterns**. My mission is to leverage this unique expertise to build impactful solutions that bridge these dynamic fields and **make people's lives easier**.
 
-#### Languages:
-<div style="display: inline_block"><br>
-  <img align="center" alt="rails_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
-  <img align="center" alt="ruby_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="html_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="css_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="js_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="typescript_logo" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" />
-  <img align="center" alt="react_logo" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-  <img align="center" alt="next_js_logo" height="30" width="30" src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/development/next.js-4jgorlt5yc2okojqvlpt7.png/next.js-w76wb14xjaofqmirzwub.png?_a=DATAg1AAZAA0" />
-  <img align="center" alt="Python_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="SQL_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="R_logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-
-</div>
-
 #### Tech Courses:
 
   - 🌱 <img align="center" alt="ufsc_logo" height="30" src="https://www.apufsc.org.br/wp-content/uploads/2021/04/concorrencia-vestibular-ufsc-2020-2-326x245.jpg" /> "Bachelor's Degree in Information Systems - UFSC (ongoing)"
